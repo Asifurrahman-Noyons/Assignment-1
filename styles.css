@@ -8,7 +8,7 @@ body{
 /* Header related styles */
 
 .header {
-    max-width: 1320px;
+    max-width: 100%;
     height: 600px;
     position: relative;
     display: flex;
